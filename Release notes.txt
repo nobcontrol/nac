@@ -1,3 +1,11 @@
+16.05.2022 -  nAc v0.4.20-RC02
+- Added support for the Page Backward and Page Forward keys, which might be present on certain keyboards.
+- Fixed an issue that prevented nAc for Apple Silicon (M1) from updating nOb’s firmware.
+- Fixed an issue, which allowed Windows to apply the system’s mouse acceleration settings to the cursor movements performed by nAc.
+- Implemented a couple of logic optimizations related to the use of Quick Assignments in combination with wildcard expressions.
+- Minor stability fixes.
+
+
 14.02.2022 - nAc v0.4.20-RC01
 - Minor UI refresh.
 - Refreshed tray icon menu.
