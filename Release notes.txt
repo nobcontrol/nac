@@ -1,3 +1,10 @@
+06.06.2022 - nAc v0.4.20-RC03
+- Minor UI optimizations.
+- Fixed an issue on Mac that sometimes caused the application under the mouse cursor to falsely believe that certain modifier keys were being pressed after a Quick Assignment was activated.
+- If a MIDI device used in an assignment is unavailable when nAC starts up, nAc will attempt to replace it with another one that has the same name.
+- Improved display and internal handling of hotkeys containing special characters.
+
+
 16.05.2022 -  nAc v0.4.20-RC02
 - Added support for the Page Backward and Page Forward keys, which might be present on certain keyboards.
 - Fixed an issue that prevented nAc for Apple Silicon (M1) from updating nOb’s firmware.
