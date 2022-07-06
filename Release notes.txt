@@ -1,3 +1,9 @@
+06.07.2022 - nAc v0.4.20-RC04
+- Fixed an issue on Mac which sometimes caused EQ points in Fabfilter plugins’ EQ curves to slightly jump after being dragged by nOb.
+- Fixed an issue on Windows which could potentially cause a crash when the “About” dialog was being displayed.
+- Minor bug fixes and optimizations.
+
+
 06.06.2022 - nAc v0.4.20-RC03
 - Minor UI optimizations.
 - Fixed an issue on Mac that sometimes caused the application under the mouse cursor to falsely believe that certain modifier keys were being pressed after a Quick Assignment was activated.
