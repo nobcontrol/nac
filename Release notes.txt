@@ -1,3 +1,6 @@
+07.10.2022 - nAc v0.4.20
+- Improved the way the replacement of missing MIDI devices with available ones is handled across profiles and assignments.
+
 06.07.2022 - nAc v0.4.20-RC04
 - Fixed an issue on Mac which sometimes caused EQ points in Fabfilter plugins’ EQ curves to slightly jump after being dragged by nOb.
 - Fixed an issue on Windows which could potentially cause a crash when the “About” dialog was being displayed.
