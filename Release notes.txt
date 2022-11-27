@@ -1,3 +1,7 @@
+27.11.2022 - nAc v0.4.21
+- Fixed an issue that might have occasionally caused the inability to check or uncheck the “Auto” option in the profile settings.
+- Improved the detection of Logic plugin windows on Mac.
+
 07.10.2022 - nAc v0.4.20
 - Improved the way the replacement of missing MIDI devices with available ones is handled across profiles and assignments.
 
@@ -6,13 +10,11 @@
 - Fixed an issue on Windows which could potentially cause a crash when the “About” dialog was being displayed.
 - Minor bug fixes and optimizations.
 
-
 06.06.2022 - nAc v0.4.20-RC03
 - Minor UI optimizations.
 - Fixed an issue on Mac that sometimes caused the application under the mouse cursor to falsely believe that certain modifier keys were being pressed after a Quick Assignment was activated.
 - If a MIDI device used in an assignment is unavailable when nAC starts up, nAc will attempt to replace it with another one that has the same name.
 - Improved display and internal handling of hotkeys containing special characters.
-
 
 16.05.2022 -  nAc v0.4.20-RC02
 - Added support for the Page Backward and Page Forward keys, which might be present on certain keyboards.
@@ -20,7 +22,6 @@
 - Fixed an issue, which allowed Windows to apply the system’s mouse acceleration settings to the cursor movements performed by nAc.
 - Implemented a couple of logic optimizations related to the use of Quick Assignments in combination with wildcard expressions.
 - Minor stability fixes.
-
 
 14.02.2022 - nAc v0.4.20-RC01
 - Minor UI refresh.
@@ -39,7 +40,6 @@
 30.07.2021 - nAc v0.4.1
 - Fixed an issue that sometimes caused nAc to stop responding to keyboard hotkeys on Mac.
 - Minor bug fixes.
-
 
 18.07.2021 - nAc v0.4.1-RC01
 - Fixed an issue that sometimes blocked the keyboard input on Mac, when nAc was dragging something on the screen.
