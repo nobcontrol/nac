@@ -1,3 +1,6 @@
+01.01.2023 - nAc v0.4.22
+- Optimized the way nAc moves the mouse cursor in Windows, which leads to improved precision in certain software.
+
 27.11.2022 - nAc v0.4.21
 - Fixed an issue that might have occasionally caused the inability to check or uncheck the “Auto” option in the profile settings.
 - Improved the detection of Logic plugin windows on Mac.
