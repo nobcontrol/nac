@@ -1,3 +1,10 @@
+15.01.2023 - nAc v0.4.24
+- Fixed a bug that prevented the use of hotkeys containing “Y” or “Z” on certain keyboards on Mac.
+- Optimized the support for international keyboards in regard to hotkeys and key presses.
+- Fixed a bug that would cause nAc’s window to appear when starting the application, even though the user would have closed the window before terminating the app or shutting down.
+- Fixed a bug on Mac, which would occasionally cause nAc to lose the position of a Quick Assignment, if its activation hotkey contained the “Knob” modifier.
+
+
 01.01.2023 - nAc v0.4.22
 - Optimized the way nAc moves the mouse cursor in Windows, which leads to improved precision in certain software.
 
