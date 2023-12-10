@@ -1,9 +1,20 @@
+10.12.2023 - nAc v0.5.0-RC01
+- Enhanced the activation options for profiles, Quick Assignments, and MIDI/OSC assignments, now allowing activation through MIDI note and Program Change events, as well as Open Sound Control messages.
+- Diversified the modifier options for keyboard hotkeys, enabling users to utilize knob touch, toggle switch touch interaction, and the 4th and 5th mouse buttons (if available) as additional modifiers.
+- Introduced the feature to activate profiles or assignments by pressing the left, right, or middle mouse button while touching the knob or any toggle switch.
+- Introduced a new feature that allows users to define alternative control configurations within each profile. These control configurations can be toggled by pressing custom hotkeys or activated by holding user defined modifiers, which might be induced via keyboard key presses, MIDI devices note and Program Change events or Open Sound Control messages. 
+- Added a global option that enables nAc to consider the system's double-click interval period and apply the necessary artificial delay to prevent accidental double-clicks when the user is interacting rapidly with the nOb.
+- Improved support for Quick Assignments in LUNA.
+- Enhanced the responsiveness of nAc's behavior when touching and rotating the nOb in cursor and keypress controller modes.
+- Enhanced support for key presses from non-international/US keyboards, improving overall keyboard compatibility.
+- Incorporated an updated firmware for nOb, enhancing touch detection robustness.
+- Implemented numerous minor bug fixes and optimizations for improved software stability and performance.
+
 15.01.2023 - nAc v0.4.24
 - Fixed a bug that prevented the use of hotkeys containing “Y” or “Z” on certain keyboards on Mac.
 - Optimized the support for international keyboards in regard to hotkeys and key presses.
 - Fixed a bug that would cause nAc’s window to appear when starting the application, even though the user would have closed the window before terminating the app or shutting down.
 - Fixed a bug on Mac, which would occasionally cause nAc to lose the position of a Quick Assignment, if its activation hotkey contained the “Knob” modifier.
-
 
 01.01.2023 - nAc v0.4.22
 - Optimized the way nAc moves the mouse cursor in Windows, which leads to improved precision in certain software.
