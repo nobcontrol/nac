@@ -1,3 +1,8 @@
+15.12.2023 - nAc v0.5.0-RC02
+- Resolved an issue with navigation among Quick Assignments inside the focused window by using the knob and arrow keys. This functionality was broken in version 0.5.0-RC01.
+- Addressed a crash that could occur when attempting to change the profile while an assignment, activated by a simple knob touch, was active.
+- Implemented minor optimizations and bug fixes related to the activation of profiles and assignments triggered by a simple knob touch.
+
 10.12.2023 - nAc v0.5.0-RC01
 - Enhanced the activation options for profiles, Quick Assignments, and MIDI/OSC assignments, now allowing activation through MIDI note and Program Change events, as well as Open Sound Control messages.
 - Diversified the modifier options for keyboard hotkeys, enabling users to utilize knob touch, toggle switch touch interaction, and the 4th and 5th mouse buttons (if available) as additional modifiers.
