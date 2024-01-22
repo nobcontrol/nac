@@ -1,3 +1,9 @@
+22.01.2024 - nAc v0.5.0-RC03
+- Engaging alternative control options is now allowed when a Quick Assignment is active.
+- Enhanced compatibility with Cakewalk by BandLab for Quick Assignments.
+- Now allows negative sensitivity values in relative MIDI/OSC control signals.
+- Addressed several minor bugs and implemented optimizations.
+
 15.12.2023 - nAc v0.5.0-RC02
 - Resolved an issue with navigation among Quick Assignments inside the focused window by using the knob and arrow keys. This functionality was broken in version 0.5.0-RC01.
 - Addressed a crash that could occur when attempting to change the profile while an assignment, activated by a simple knob touch, was active.
