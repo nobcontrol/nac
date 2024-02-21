@@ -1,3 +1,7 @@
+21.02.2024 - nAc v0.5.0-RC04
+- Fixed an issue that could potentially cause a sticky MIDI assignment to appear active in the UI, even if the user switched profiles.
+- Implemented optimizations for control behavior when toggle switches are touched, preventing conflicts associated with the activation of alternative control options, which may also be triggered by such touches.
+
 22.01.2024 - nAc v0.5.0-RC03
 - Engaging alternative control options is now allowed when a Quick Assignment is active.
 - Enhanced compatibility with Cakewalk by BandLab for Quick Assignments.
