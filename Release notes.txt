@@ -1,5 +1,8 @@
+11.04.2024 - nAc v0.5.1
+- Fixed support for UADx plugins on macOS.
+
 15.03.2024 - nAc v0.5.0
--Fixed an issue causing lagging MIDI/OSC output messages when nAc was handling many large profiles.
+- Fixed an issue causing lagging MIDI/OSC output messages when nAc was handling many large profiles.
 
 21.02.2024 - nAc v0.5.0-RC04
 - Fixed an issue that could potentially cause a sticky MIDI assignment to appear active in the UI, even if the user switched profiles.
