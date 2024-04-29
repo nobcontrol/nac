@@ -1,3 +1,6 @@
+29.04.2024 - nAc v0.5.11
+- Fixed a bug that sometimes prevented the "force drag behaviour" option to take effect.
+
 11.04.2024 - nAc v0.5.1
 - Fixed support for UADx plugins on macOS.
 
