@@ -1,3 +1,12 @@
+05.09.2024 - nAc v0.5.12
+- Improved support for combining nOb with Wacom tablets on macOS.
+- Improved compatibility with LUNA plugins on Windows.
+- Fixed a bug that caused a profile not to auto-activate when starting Cubase/Nuendo on macOS.
+- Improved Quick Assignment navigation using the arrow keys.
+- Fixed a bug that prevented the auto-activation of profiles when opening certain plugins in Logic if their UIs appeared with a delay inside the plugin’s window.
+- Fixed a bug that sometimes caused forced options (e.g., forced stationary mode) to be ignored in Quick Assignments.
+- Made further minor optimizations related to Quick Assignments.
+
 29.04.2024 - nAc v0.5.11
 - Fixed a bug that sometimes prevented the "force drag behaviour" option to take effect.
 
