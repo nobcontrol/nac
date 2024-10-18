@@ -1,3 +1,7 @@
+18.10.2024 - nAc v0.5.13
+- Improved precision in certain applications and plugins when using the cursor controller mode on macOS.
+- Fixed minor issues related to undo functionality when using the cursor controller with forced cursor behavior.
+
 05.09.2024 - nAc v0.5.12
 - Improved support for combining nOb with Wacom tablets on macOS.
 - Improved compatibility with LUNA plugins on Windows.
