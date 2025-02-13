@@ -1,3 +1,10 @@
+13.02.2025 - nAc v0.6.0-RC01
+- Added a dialog for accessing additional profile activation settings, allowing users to configure custom actions when a profile is activated.
+- Introduced a new control mode called “OSC/MIDI Controller”, enabling nAc to send MIDI or Open Sound Control (OSC) data based on any user-selected MIDI/OSC assignment available in the profile.
+- Enhanced OSC/MIDI control data configuration with an option to repeatedly send specific values when nOb is turned clockwise or counterclockwise.
+- New nOb firmware: nAc now detects and reports your nOb’s firmware version. If the firmware is out-of-date, nAc will recommend an update.
+- Several minor fixes and optimizations to improve overall performance and stability.
+
 18.10.2024 - nAc v0.5.13
 - Improved precision in certain applications and plugins when using the cursor controller mode on macOS.
 - Fixed minor issues related to undo functionality when using the cursor controller with forced cursor behavior.
