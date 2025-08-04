@@ -1,3 +1,8 @@
+04.08.2025 - nAc v0.6.0
+- Improved compatibility with plugins in DaVinci Resolve Fairlight.
+- Fixed support for Quick Assignments in Adobe Audition on macOS.
+- Optimized prevention of accidental double-clicks when using nOb to control parameters rapidly.
+
 28.03.2025 - nAc v0.6.0-RC02
 - Fixed issues that caused disconnects on macOS when the computer went to sleep
 - Profiles that appear higher on the list now have higher priority for automatic profile activation.
