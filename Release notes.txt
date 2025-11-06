@@ -1,3 +1,6 @@
+05.11.2025 - nAc v0.6.1
+- Fixed an issue where nAc could incorrectly consume keystrokes if they were pressed immediately after a modifier key, when profiles using alternative control settings were active.
+
 04.08.2025 - nAc v0.6.0
 - Improved compatibility with plugins in DaVinci Resolve Fairlight.
 - Fixed support for Quick Assignments in Adobe Audition on macOS.
