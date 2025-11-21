@@ -1,3 +1,7 @@
+21.11.2025 - nAc v0.6.2
+- Fixed an issue on macOS that could prevent alternative control options from activating when users employed modifier-based hotkeys on a Stream Deck.
+- Implemented minor internal optimizations for macOS.
+
 05.11.2025 - nAc v0.6.1
 - Fixed an issue where nAc could incorrectly consume keystrokes if they were pressed immediately after a modifier key, when profiles using alternative control settings were active.
 
