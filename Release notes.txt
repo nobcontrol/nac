@@ -1,3 +1,7 @@
+15.12.2025 - nAc v0.6.3
+- Improved how nAc detects held modifier keys that trigger alternative control options.
+- Refined the interaction between the “no click” cursor controller and standard mouse input to ensure better behavior when users click with a regular mouse while simultaneously using the nOb.
+
 21.11.2025 - nAc v0.6.2
 - Fixed an issue on macOS that could prevent alternative control options from activating when users employed modifier-based hotkeys on a Stream Deck.
 - Implemented minor internal optimizations for macOS.
